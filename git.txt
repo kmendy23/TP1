@@ -1,1 +1,14 @@
-test
+1) les fichiers créer apres un git init :  .  ..  et  .git 
+
+7) stutat du repertoire : working tree 
+
+6) affiche un message 
+
+8) Il permet de lister les commits, de les filtrer et de rechercher des modifications précise
+
+9)compare les modifications dans les fichiers, les branches et les commits.
+
+10) Commit fait !
+
+Exercice 2
+
